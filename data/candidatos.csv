@@ -1,0 +1,60 @@
+ticker,nombre,clase,tipo,pais,sector,actividad,nota
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,liquidez,fondo,EE.UU.,Soberano,,Letras del Tesoro de 1 a 3 meses
+SGOV,iShares 0-3 Month Treasury Bond ETF,liquidez,fondo,EE.UU.,Soberano,,Letras del Tesoro de 0 a 3 meses; cotiza desde 2020
+IEF,iShares 7-10 Year Treasury Bond ETF,tesoro,fondo,EE.UU.,Soberano,,Bonos del Tesoro de 7 a 10 años
+IEI,iShares 3-7 Year Treasury Bond ETF,tesoro,fondo,EE.UU.,Soberano,,Bonos del Tesoro de 3 a 7 años
+TIP,iShares TIPS Bond ETF,tips,fondo,EE.UU.,Soberano,,Bonos del Tesoro ajustados por inflación; todos los plazos
+SCHP,Schwab U.S. TIPS ETF,tips,fondo,EE.UU.,Soberano,,TIPS; comisión más baja que TIP
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,tips,fondo,EE.UU.,Soberano,,TIPS de 0 a 5 años
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,corporativos,fondo,EE.UU.,Corporativo,petroleo_gas;armamento;tabaco,Sin filtro ESG
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,corporativos,fondo,EE.UU.,Corporativo,petroleo_gas;armamento;tabaco,Sin filtro ESG
+SUSC,iShares ESG Aware USD Corporate Bond ETF,corporativos,fondo,EE.UU.,Corporativo,petroleo_gas,Filtro ESG parcial: excluye armas y tabaco pero mantiene emisores de petróleo y gas (A VERIFICAR)
+VCEB,Vanguard ESG U.S. Corporate Bond ETF,corporativos,fondo,EE.UU.,Corporativo,,Excluye combustibles fósiles; armas; tabaco; alcohol; apuestas y nuclear (página del fondo en Vanguard; verificado 15/11/2026); cotiza desde 2020
+SPY,SPDR S&P 500 ETF Trust,acciones_eeuu,fondo,EE.UU.,Amplio,petroleo_gas;armamento;tabaco,S&P 500 sin filtro ESG
+ESGU,iShares ESG Aware MSCI USA ETF,acciones_eeuu,fondo,EE.UU.,Amplio,petroleo_gas,Filtro ESG parcial: mantiene petróleo y gas (A VERIFICAR)
+ESGV,Vanguard ESG U.S. Stock ETF,acciones_eeuu,fondo,EE.UU.,Amplio,,Excluye combustibles fósiles; armas; tabaco; alcohol; apuestas y nuclear (página del fondo en Vanguard; verificado 15/11/2026); cotiza desde 2018
+VGK,Vanguard FTSE Europe ETF,acciones_europa,fondo,Europa,Amplio,petroleo_gas;armamento;tabaco,Europa desarrollada sin filtro ESG
+ESGD,iShares ESG Aware MSCI EAFE ETF,acciones_europa,fondo,Desarrollados ex EE.UU.,Amplio,petroleo_gas,ESG parcial; un tercio en Japón y Pacífico (A VERIFICAR)
+AAPL,Apple,acciones_eeuu,accion,EE.UU.,Tecnología,,
+MSFT,Microsoft,acciones_eeuu,accion,EE.UU.,Tecnología,,
+NVDA,NVIDIA,acciones_eeuu,accion,EE.UU.,Tecnología,,
+GOOGL,Alphabet,acciones_eeuu,accion,EE.UU.,Comunicaciones,,
+META,Meta Platforms,acciones_eeuu,accion,EE.UU.,Comunicaciones,,
+AMZN,Amazon,acciones_eeuu,accion,EE.UU.,Consumo discrecional,,
+HD,Home Depot,acciones_eeuu,accion,EE.UU.,Consumo discrecional,,
+JPM,JPMorgan Chase,acciones_eeuu,accion,EE.UU.,Financiero,,
+V,Visa,acciones_eeuu,accion,EE.UU.,Financiero,,
+MA,Mastercard,acciones_eeuu,accion,EE.UU.,Financiero,,
+UNH,UnitedHealth Group,acciones_eeuu,accion,EE.UU.,Salud,,
+JNJ,Johnson & Johnson,acciones_eeuu,accion,EE.UU.,Salud,,
+LLY,Eli Lilly,acciones_eeuu,accion,EE.UU.,Salud,,
+PG,Procter & Gamble,acciones_eeuu,accion,EE.UU.,Consumo básico,,
+KO,Coca-Cola,acciones_eeuu,accion,EE.UU.,Consumo básico,,
+COST,Costco,acciones_eeuu,accion,EE.UU.,Consumo básico,,
+NEE,NextEra Energy,acciones_eeuu,accion,EE.UU.,Servicios públicos,,
+ETN,Eaton,acciones_eeuu,accion,EE.UU.,Industria,,Sede legal en Irlanda; opera y cotiza en EE.UU
+XOM,Exxon Mobil,acciones_eeuu,accion,EE.UU.,Energía,petroleo_gas,
+CVX,Chevron,acciones_eeuu,accion,EE.UU.,Energía,petroleo_gas,
+LMT,Lockheed Martin,acciones_eeuu,accion,EE.UU.,Industria,armamento,
+RTX,RTX (Raytheon),acciones_eeuu,accion,EE.UU.,Industria,armamento,
+MO,Altria,acciones_eeuu,accion,EE.UU.,Consumo básico,tabaco,
+PM,Philip Morris International,acciones_eeuu,accion,EE.UU.,Consumo básico,tabaco,
+FCX,Freeport-McMoRan,acciones_eeuu,accion,EE.UU.,Materiales,mineria,
+ASML,ASML Holding,acciones_europa,accion,Países Bajos,Tecnología,,Cotiza en Nasdaq
+SAP,SAP,acciones_europa,accion,Alemania,Tecnología,,ADR en NYSE
+NVO,Novo Nordisk,acciones_europa,accion,Dinamarca,Salud,,ADR en NYSE
+AZN,AstraZeneca,acciones_europa,accion,Reino Unido,Salud,,ADR en Nasdaq
+NVS,Novartis,acciones_europa,accion,Suiza,Salud,,ADR en NYSE
+SNY,Sanofi,acciones_europa,accion,Francia,Salud,,ADR en Nasdaq
+GSK,GSK,acciones_europa,accion,Reino Unido,Salud,,ADR en NYSE
+UL,Unilever,acciones_europa,accion,Reino Unido,Consumo básico,,ADR en NYSE
+DEO,Diageo,acciones_europa,accion,Reino Unido,Consumo básico,,ADR en NYSE. Alcohol: fuera de nuestra lista de exclusiones
+RELX,RELX,acciones_europa,accion,Reino Unido,Industria,,ADR en NYSE
+HSBC,HSBC Holdings,acciones_europa,accion,Reino Unido,Financiero,,ADR en NYSE
+ING,ING Groep,acciones_europa,accion,Países Bajos,Financiero,,ADR en NYSE
+SAN,Banco Santander,acciones_europa,accion,España,Financiero,,ADR en NYSE
+TTE,TotalEnergies,acciones_europa,accion,Francia,Energía,petroleo_gas,ADR en NYSE
+SHEL,Shell,acciones_europa,accion,Reino Unido,Energía,petroleo_gas,ADR en NYSE
+BP,BP,acciones_europa,accion,Reino Unido,Energía,petroleo_gas,ADR en NYSE
+RIO,Rio Tinto,acciones_europa,accion,Reino Unido,Materiales,mineria,ADR en NYSE
+BTI,British American Tobacco,acciones_europa,accion,Reino Unido,Consumo básico,tabaco,ADR en NYSE

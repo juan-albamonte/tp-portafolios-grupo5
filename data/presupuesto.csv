@@ -1,0 +1,55 @@
+rubro,usd_mes,escenario,nivel,fuente
+Supermercado y hogar,1500,ambos,base,Estimación propia
+Restaurantes y salidas,1250,ambos,base,Mitad del nivel lujo
+Personal de servicio,1200,ambos,base,"Una empleada, sin chofer (mitad del nivel lujo)"
+"Autos: seguro, patente, mantenimiento y combustible",1500,ambos,base,Dos autos premium (estimación propia)
+Prepaga plan premium,600,ambos,base,Estimación propia (planes top de prepagas)
+Viajes internacionales,2500,ambos,base,1 o 2 viajes por año (mitad del nivel lujo)
+"Ropa, cuidado personal y bienestar",1000,ambos,base,Mitad del nivel lujo
+"Club, gimnasio y deportes",500,ambos,base,Estimación propia
+"Cultura, hobbies y formación",600,ambos,base,Estimación propia
+"Seguros (vida, hogar, joyas)",400,ambos,base,Estimación propia
+Regalos y donaciones,400,ambos,base,Mitad del nivel lujo
+Imprevistos,1000,ambos,base,Proporcional al gasto menor
+Expensas,1500,compra,base,Estimación propia (torre con amenities)
+ABL,300,compra,base,Estimación propia
+Mantenimiento del departamento,600,compra,base,0.7% anual de USD 1M
+Bienes Personales del departamento,200,compra,base,"Ley 27.743: casa habitación exenta hasta ARS 350 M. Conservador: USD 300k gravados a 0,75%"
+Alquiler del departamento,4500,alquila,base,Avisos de Zonaprop 2026 (Puerto Madero y Libertador)
+Expensas,1500,alquila,base,Las ordinarias las paga el inquilino
+Supermercado y hogar,1500,ambos,lujo,Estimación propia
+Restaurantes y salidas,2500,ambos,lujo,Estimación propia
+Personal de servicio,2400,ambos,lujo,Dos empleadas y chofer (escala de casas particulares más cargas)
+"Autos: seguro, patente, mantenimiento y combustible",1500,ambos,lujo,Dos autos premium (estimación propia)
+Prepaga plan premium,600,ambos,lujo,Estimación propia (planes top de prepagas)
+Viajes internacionales,5000,ambos,lujo,3 o 4 viajes por año (estimación propia)
+"Ropa, cuidado personal y bienestar",2000,ambos,lujo,Estimación propia
+"Club, gimnasio y deportes",500,ambos,lujo,Estimación propia
+"Cultura, hobbies y formación",600,ambos,lujo,Estimación propia
+"Seguros (vida, hogar, joyas)",400,ambos,lujo,Estimación propia
+Regalos y donaciones,800,ambos,lujo,Estimación propia
+Imprevistos,1500,ambos,lujo,Estimación propia
+Expensas,1500,compra,lujo,Estimación propia (torre con amenities)
+ABL,300,compra,lujo,Estimación propia
+Mantenimiento del departamento,600,compra,lujo,0.7% anual de USD 1M
+Bienes Personales del departamento,200,compra,lujo,"Ley 27.743: casa habitación exenta hasta ARS 350 M. Conservador: USD 300k gravados a 0,75%"
+Alquiler del departamento,4500,alquila,lujo,Avisos de Zonaprop 2026 (Puerto Madero y Libertador)
+Expensas,1500,alquila,lujo,Las ordinarias las paga el inquilino
+Supermercado y hogar,1500,ambos,alto,Estimación propia
+Restaurantes y salidas,3500,ambos,alto,Estimación propia
+Personal de servicio,5000,ambos,alto,"Staff full time: dos empleadas con cama y chofer, más cargas"
+"Autos: seguro, patente, mantenimiento y combustible",2250,ambos,alto,Tres autos premium (un auto más)
+Prepaga plan premium,600,ambos,alto,Estimación propia (planes top de prepagas)
+Viajes internacionales,10000,ambos,alto,"5 o 6 viajes de alta gama por año, en clase ejecutiva"
+"Ropa, cuidado personal y bienestar",2000,ambos,alto,Estimación propia
+"Club, gimnasio y deportes",500,ambos,alto,Estimación propia
+"Cultura, hobbies y formación",600,ambos,alto,Estimación propia
+"Seguros (vida, hogar, joyas)",400,ambos,alto,Estimación propia
+Regalos y donaciones,800,ambos,alto,Estimación propia
+Imprevistos,2000,ambos,alto,Proporcional al gasto mayor
+Expensas,1500,compra,alto,Estimación propia (torre con amenities)
+ABL,300,compra,alto,Estimación propia
+Mantenimiento del departamento,600,compra,alto,0.7% anual de USD 1M
+Bienes Personales del departamento,200,compra,alto,"Ley 27.743: casa habitación exenta hasta ARS 350 M. Conservador: USD 300k gravados a 0,75%"
+Alquiler del departamento,7000,alquila,alto,Unidad más grande en Puerto Madero o Libertador
+Expensas,1500,alquila,alto,Las ordinarias las paga el inquilino

@@ -1,0 +1,15 @@
+ticker,clase,tipo,motivo
+BIL,liquidez,fondo,Letras de 1 a 3 meses; reserva de gasto
+IEF,tesoro,fondo,Tesoro 7-10 años: la duración de la clase
+SCHP,tips,fondo,"TIPS; mismo índice que TIP con comisión 0,03% contra 0,18%"
+VCEB,corporativos,fondo,Único fondo de corporativos que pasa el filtro ESG
+ESGV,acciones_eeuu,fondo,Mercado de EE.UU. con filtro ESG; núcleo de la clase
+NVDA,acciones_eeuu,accion,Tecnología: el proveedor central de la inversión en IA
+V,acciones_eeuu,accion,Financiero: peaje sobre el gasto nominal
+MA,acciones_eeuu,accion,"Financiero: red de pagos; ESG 58 (reemplaza a JPM, ESG 29 y gran financiador de fósiles)"
+LLY,acciones_eeuu,accion,Salud: crecimiento de 43% con el líder en obesidad
+ETN,acciones_eeuu,accion,Industria: electrificación de centros de datos y red
+PG,acciones_eeuu,accion,Consumo básico: defensa deliberada contra el riesgo de IA
+ASML,acciones_europa,accion,Tecnología: monopolio de la litografía EUV
+NVS,acciones_europa,accion,Salud: farma europea barata; vol 20% y retorno al accionista 6%
+RELX,acciones_europa,accion,Industria: información por suscripción; mejor puntaje del screening

@@ -1,0 +1,17 @@
+{
+  "tasa_corta": {
+    "serie": "DTB3",
+    "fecha": "2026-11-12",
+    "valor": 0.0414
+  },
+  "tips_10": {
+    "serie": "DFII10",
+    "fecha": "2026-11-12",
+    "valor": 0.0286
+  },
+  "breakeven_10": {
+    "serie": "T10YIE",
+    "fecha": "2026-11-13",
+    "valor": 0.022400000000000003
+  }
+}

@@ -1,0 +1,39 @@
+ticker,nombre,clase,tipo,pais,sector,esg_sp,fuente_esg,por_que_entra,cedear_byma,mercado_eeuu,operable_broker_eeuu,seleccionado
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,liquidez,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NYSEArca,sí,sí
+SGOV,iShares 0-3 Month Treasury Bond ETF,liquidez,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NYSE,sí,
+IEF,iShares 7-10 Year Treasury Bond ETF,tesoro,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NasdaqGM,sí,sí
+IEI,iShares 3-7 Year Treasury Bond ETF,tesoro,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NasdaqGM,sí,
+TIP,iShares TIPS Bond ETF,tips,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NYSEArca,sí,
+SCHP,Schwab U.S. TIPS ETF,tips,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NYSEArca,sí,sí
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,tips,fondo,EE.UU.,Soberano,n/a,n/a,Deuda soberana de EE.UU.: sin exposición a actividades excluidas,no,NasdaqGM,sí,
+VCEB,Vanguard ESG U.S. Corporate Bond ETF,corporativos,fondo,EE.UU.,Corporativo,n/a,n/a,"Fondo con filtro ESG que excluye combustibles fósiles, armas y tabaco (página de Vanguard, 15/11/2026)",no,Cboe US,sí,sí
+ESGV,Vanguard ESG U.S. Stock ETF,acciones_eeuu,fondo,EE.UU.,Amplio,n/a,n/a,"Fondo con filtro ESG que excluye combustibles fósiles, armas y tabaco (página de Vanguard, 15/11/2026)",no,Cboe US,sí,sí
+AAPL,Apple,acciones_eeuu,accion,EE.UU.,Tecnología,32,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 32 ≥ 25,AAPL (20:1),NasdaqGS,sí,
+MSFT,Microsoft,acciones_eeuu,accion,EE.UU.,Tecnología,46,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 46 ≥ 25,MSFT (30:1),NasdaqGS,sí,
+NVDA,NVIDIA,acciones_eeuu,accion,EE.UU.,Tecnología,61,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 61 ≥ 25,NVDA (24:1),NasdaqGS,sí,sí
+GOOGL,Alphabet,acciones_eeuu,accion,EE.UU.,Comunicaciones,29,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 29 ≥ 25,GOOGL (58:1),NasdaqGS,sí,
+META,Meta Platforms,acciones_eeuu,accion,EE.UU.,Comunicaciones,30,"CSA 2024, DJSI",Sin actividades excluidas; ESG S&P 30 ≥ 25,META (24:1),NasdaqGS,sí,
+HD,Home Depot,acciones_eeuu,accion,EE.UU.,Consumo discrecional,39,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 39 ≥ 25,HD (32:1),NYSE,sí,
+JPM,JPMorgan Chase,acciones_eeuu,accion,EE.UU.,Financiero,29,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 29 ≥ 25,JPM (15:1),NYSE,sí,
+V,Visa,acciones_eeuu,accion,EE.UU.,Financiero,58,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 58 ≥ 25,V (18:1),NYSE,sí,sí
+MA,Mastercard,acciones_eeuu,accion,EE.UU.,Financiero,58,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 58 ≥ 25,MA (33:1),NYSE,sí,sí
+UNH,UnitedHealth Group,acciones_eeuu,accion,EE.UU.,Salud,39,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 39 ≥ 25,UNH (33:1),NYSE,sí,
+LLY,Eli Lilly,acciones_eeuu,accion,EE.UU.,Salud,38,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 38 ≥ 25,LLY (56:1),NYSE,sí,sí
+PG,Procter & Gamble,acciones_eeuu,accion,EE.UU.,Consumo básico,37,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 37 ≥ 25,PG (15:1),NYSE,sí,sí
+KO,Coca-Cola,acciones_eeuu,accion,EE.UU.,Consumo básico,42,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 42 ≥ 25,KO (5:1),NYSE,sí,
+COST,Costco,acciones_eeuu,accion,EE.UU.,Consumo básico,41,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 41 ≥ 25,COST (48:1),NasdaqGS,sí,
+NEE,NextEra Energy,acciones_eeuu,accion,EE.UU.,Servicios públicos,38,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 38 ≥ 25,NEE (19:1),NYSE,sí,
+ETN,Eaton,acciones_eeuu,accion,EE.UU.,Industria,50,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 50 ≥ 25,no,NYSE,sí,sí
+ASML,ASML Holding,acciones_europa,accion,Países Bajos,Tecnología,58,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 58 ≥ 25,ASML (146:1),NasdaqGS,sí,sí
+SAP,SAP,acciones_europa,accion,Alemania,Tecnología,58,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 58 ≥ 25,SAP (6:1),NYSE,sí,
+NVO,Novo Nordisk,acciones_europa,accion,Dinamarca,Salud,33,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 33 ≥ 25,NVO (7:1),NYSE,sí,
+AZN,AstraZeneca,acciones_europa,accion,Reino Unido,Salud,69,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 69 ≥ 25,AZN (4:1),NYSE,sí,
+NVS,Novartis,acciones_europa,accion,Suiza,Salud,58,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 58 ≥ 25,NVS (4:1),NYSE,sí,sí
+SNY,Sanofi,acciones_europa,accion,Francia,Salud,52,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 52 ≥ 25,no,NasdaqGS,sí,
+GSK,GSK,acciones_europa,accion,Reino Unido,Salud,68,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 68 ≥ 25,GSK (4:1),NYSE,sí,
+UL,Unilever,acciones_europa,accion,Reino Unido,Consumo básico,50,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 50 ≥ 25,UL (3:1),NYSE,sí,
+DEO,Diageo,acciones_europa,accion,Reino Unido,Consumo básico,57,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 57 ≥ 25,DEO (6:1),NYSE,sí,
+RELX,RELX,acciones_europa,accion,Reino Unido,Industria,58,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 58 ≥ 25,no,NYSE,sí,sí
+HSBC,HSBC Holdings,acciones_europa,accion,Reino Unido,Financiero,,sin puntaje público,Sin actividades excluidas; ESG sin puntaje público: no puede entrar a la cartera,HSBC (2:1),NYSE,sí,
+ING,ING Groep,acciones_europa,accion,Países Bajos,Financiero,47,S&P Global ESG Score,Sin actividades excluidas; ESG S&P 47 ≥ 25,ING (3:1),NYSE,sí,
+SAN,Banco Santander,acciones_europa,accion,España,Financiero,73,"CSA 2024, DJSI",Sin actividades excluidas; ESG S&P 73 ≥ 25,SAN (1:4),NYSE,sí,

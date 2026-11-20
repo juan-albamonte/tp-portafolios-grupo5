@@ -1,0 +1,22 @@
+ticker,nombre,clase,sector,motivo
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,corporativos,Corporativo,"Excluido: petróleo y gas, armamento, tabaco"
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,corporativos,Corporativo,"Excluido: petróleo y gas, armamento, tabaco"
+SUSC,iShares ESG Aware USD Corporate Bond ETF,corporativos,Corporativo,Excluido: petróleo y gas
+SPY,SPDR S&P 500 ETF Trust,acciones_eeuu,Amplio,"Excluido: petróleo y gas, armamento, tabaco"
+ESGU,iShares ESG Aware MSCI USA ETF,acciones_eeuu,Amplio,Excluido: petróleo y gas
+VGK,Vanguard FTSE Europe ETF,acciones_europa,Amplio,"Excluido: petróleo y gas, armamento, tabaco"
+ESGD,iShares ESG Aware MSCI EAFE ETF,acciones_europa,Amplio,Excluido: petróleo y gas | Fuera de mandato: no es solo Europa (Desarrollados ex EE.UU.)
+AMZN,Amazon,acciones_eeuu,Consumo discrecional,ESG bajo: S&P 21 < 25 (S&P Global ESG Score)
+JNJ,Johnson & Johnson,acciones_eeuu,Salud,"ESG bajo: S&P 24 < 25 (CSA 2024, DJSI)"
+XOM,Exxon Mobil,acciones_eeuu,Energía,Excluido: petróleo y gas
+CVX,Chevron,acciones_eeuu,Energía,Excluido: petróleo y gas
+LMT,Lockheed Martin,acciones_eeuu,Industria,Excluido: armamento
+RTX,RTX (Raytheon),acciones_eeuu,Industria,Excluido: armamento
+MO,Altria,acciones_eeuu,Consumo básico,Excluido: tabaco
+PM,Philip Morris International,acciones_eeuu,Consumo básico,Excluido: tabaco
+FCX,Freeport-McMoRan,acciones_eeuu,Materiales,Excluido: minería pesada
+TTE,TotalEnergies,acciones_europa,Energía,Excluido: petróleo y gas
+SHEL,Shell,acciones_europa,Energía,Excluido: petróleo y gas
+BP,BP,acciones_europa,Energía,Excluido: petróleo y gas
+RIO,Rio Tinto,acciones_europa,Materiales,Excluido: minería pesada
+BTI,British American Tobacco,acciones_europa,Consumo básico,Excluido: tabaco

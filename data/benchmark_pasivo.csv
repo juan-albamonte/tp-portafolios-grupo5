@@ -1,0 +1,7 @@
+ticker,clase,renta,gasto,fuente
+BIL,liquidez,0.0366,0.001353,"Renta: Yahoo Finance 15/11/2026 (como data/rendimientos.csv); gasto: data/gastos_fondos.csv"
+IEF,tesoro,0.0405,0.0015,"Renta: Yahoo Finance 15/11/2026 (como data/rendimientos.csv); gasto: data/gastos_fondos.csv"
+TIP,tips,0.0489,0.0018,"Renta: la de SCHP (mismo índice); gasto: data/gastos_fondos.csv"
+LQD,corporativos,0.0492,0.0014,"Renta: la de VCEB (no se usa: la renta fija tributa todo al 35%); gasto: data/gastos_fondos.csv"
+SPY,acciones_eeuu,0.010,0.000945,"Renta: dividendo últimos 12 meses 1,0% (Market Chameleon, 28/10/2026) https://marketchameleon.com/Overview/SPY/Dividends/"
+VGK,acciones_europa,0.0298,0.0006,"Renta: distribución últimos 12 meses 2,98% (Trackinsight, 26/10/2026) https://www.trackinsight.com/en/fund/VGK/distribution"
