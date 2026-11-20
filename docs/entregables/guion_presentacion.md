@@ -34,7 +34,7 @@ Agustín · 0:45 · minuto 0:00 a 0:45
 
 Buenas noches. Somos el Grupo 5: Agustín, Juan, Maxi y Pedro. En un minuto, el caso que nos tocó. Valentina tiene 35 años, se acaba de divorciar y tiene 15 millones de dólares en efectivo. No tiene hijos, no trabaja y va a vivir de esta plata. Reside en Argentina y opera desde un bróker de Estados Unidos. No quiere invertir en armas, tabaco ni empresas contaminantes, y le gusta la vida de lujo.
 
-Nosotros somos el family office que la recibe. Yo hago de asesor, Juan de research, Maxi de gestor de cartera y Pedro de riesgos. A partir de acá le hablamos a ella.
+Nosotros somos el family office que la recibe. Yo hago de asesor, Maxi de gestor de cartera y Pedro de riesgos. Juan, nuestro analista de research, se conecta desde nuestra oficina de Hong Kong, donde sigue los mercados de Asia. A partir de acá le hablamos a ella.
 
 ## Lámina 2 · Valentina, esto es lo que entendimos de vos
 
@@ -104,7 +104,7 @@ Pase: Juan te cuenta en qué mundo vamos a invertir tu plata.
 
 Juan · 1:30 · minuto 8:30 a 10:00
 
-Gracias, Agustín. Valentina, te cuento el mundo que vemos y los supuestos que hay detrás.
+Gracias, Agustín. Valentina, te hablo desde Hong Kong, donde ya es mañana y está por abrir el mercado. Desde acá seguimos una parte de tu cartera que no se ve a simple vista: buena parte de lo que fabrican ASML y NVIDIA termina en Asia, así que lo que pasa acá nos importa. Te cuento el mundo que vemos y los supuestos que hay detrás.
 
 El dato que domina hoy es el petróleo. Por la guerra en Medio Oriente, el Brent está en 92 dólares. Eso llevó la inflación de Estados Unidos a 4,1%, y la Reserva Federal volvió a subir la tasa, que hoy está entre 3,75 y 4%. El bono del Tesoro a 10 años rinde 5,10%.
 
