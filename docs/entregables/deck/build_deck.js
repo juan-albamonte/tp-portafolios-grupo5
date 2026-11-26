@@ -285,7 +285,7 @@ const mayus = (t) => t[0].toUpperCase() + t.slice(1);
   0.6, 1.75, 12.15, [4.15, 2, 2, 2, 2], { size: 16, rowH: 0.55, destacar: (i, j) => j === 1 });
   texto(s, "Retornos compuestos anuales en USD a 10-15 años. J.P. Morgan LTCMA 2027; Vanguard VCMM (30/09/2026); BlackRock CMA (agosto de 2026).",
     0.6, 5.85, 12.15, 0.4, { fontSize: 12, color: APAGADO });
-  texto(s, "Europa queda apenas arriba de EE.UU.: paga más dividendo, cotiza más barata y el dólar se debilita.",
+  texto(s, "Armado en bloques: rendimientos - dividendos - ganancias - precio",
     0.6, 6.3, 12.15, 0.45, { fontSize: 15, bold: true, color: NAVY });
 }
 
@@ -298,8 +298,6 @@ const mayus = (t) => t[0].toUpperCase() + t.slice(1);
   tarjeta(s, 8.85, 1.7, 3.9, 4.25, "Penalizamos", ["Consumo discrecional: el petróleo come ingreso real",
     "Consumo básico: costos en alza, volumen estancado", "Servicios públicos: los más sensibles a la tasa"],
   { color: NARANJA, size: 15 });
-  texto(s, "Energía y defensa: fuera por tus valores, no por el escenario.", 0.6, 6.2, 12.15, 0.45,
-    { fontSize: 16, bold: true, color: GRIS });
 }
 
 {
@@ -328,10 +326,8 @@ const mayus = (t) => t[0].toUpperCase() + t.slice(1);
     ["Eaton", "Industria", "La IA desde la electricidad: equipos para centros de datos y redes", peso.ETN.peso],
     ["Novartis", "Salud", "Farma global, barata y la menos volátil del sector", peso.NVS.peso],
     ["ASML", "Tecnología", "Único fabricante de las máquinas para los chips de vanguardia", peso.ASML.peso],
-    ["RELX", "Industria", "Información por suscripción; el mejor puntaje del screening", peso.RELX.peso]],
+    ["RELX", "Industria", "Información por suscripción; la mejor de su sector en el screening", peso.RELX.peso]],
   0.6, 1.7, 12.15, [1.8, 1.7, 7.45, 1.2], { size: 15, rowH: 0.52, izq: [2] });
-  tarjeta(s, 0.6, 5.95, 5.95, 0.85, "Mastercard: repite la tesis de Visa; con una alcanza", [], { tsize: 14 });
-  tarjeta(s, 6.8, 5.95, 5.95, 0.85, "Procter & Gamble: en espera; entra si el mercado se pone caro", [], { tsize: 14 });
 }
 
 {
@@ -344,7 +340,7 @@ const mayus = (t) => t[0].toUpperCase() + t.slice(1);
     ["4", "Pagos (Visa y Mastercard) le ganan al mercado", "Alcista", "Normal"],
     ["5", "Eaton le gana al mercado", "Alcista", "Normal"],
     ["6", "Bonos ajustados por inflación le ganan al Tesoro", "Alcista", "Menor"],
-    ["7", "Corporativos rinden menos que el Tesoro", "Bajista", "Normal"]],
+    ["7", "Corporativos no compensan su riesgo frente al Tesoro", "Bajista", "Normal"]],
   0.6, 1.7, 12.15, [0.6, 7.55, 2.0, 2.0], { size: 15, rowH: 0.5, izq: [1] });
   tecnico(s, 0.6, 5.95, 12.15, "Black-Litterman (Meucci, 2010)",
     "parte de lo que el mercado ya espera y lo corrige con cada opinión según su confianza; ninguna opinión manda sola.");

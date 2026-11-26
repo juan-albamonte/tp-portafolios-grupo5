@@ -314,7 +314,7 @@ Europa no queda arriba porque crezca más: crece menos (1,5% real de ganancias c
 2. **Múltiplo.** EE.UU. cotiza a 17,7 veces las ganancias esperadas, contra un promedio de 16,4 en 25 años, y Vanguard ubica su valuación en el percentil 99. Europa ex-Reino Unido cotiza a 14,9 contra una mediana de 14,1. Le restamos ~0,5 puntos por año a EE.UU. porque el múltiplo vuelve hacia su promedio, y casi nada a Europa.
 3. **Dólar.** Medimos todo en USD y el escenario base tiene un dólar que se deprecia ~0,5% por año (J.P. Morgan; Vanguard, −0,6%). Eso suma directo al retorno de un activo europeo.
 
-Sumando los bloques: EE.UU. da ~6,5% y Europa ~7,2%. Las casas no coinciden en el orden. Vanguard pone ex-EE.UU. arriba (6,3% contra 5,8%), J.P. Morgan queda prácticamente igual (7,5% contra ~7,5%) y BlackRock pone EE.UU. arriba (9,0% contra 7,4%). Por eso la diferencia que dejamos es chica: un cuarto de punto. Además, el IPS ya limita Europa a un rango de 5% a 20% porque el riesgo de estancamiento es real.
+Sumando los bloques: EE.UU. da ~6,5% y Europa ~7,2%. Usamos 7,0% y 7,25%: la suma por bloques llevada hacia lo que proyectan las gestoras (J.P. Morgan 7,5% para EE.UU.; BlackRock 7,4% para Europa). Ese medio punto en EE.UU. es un ajuste de criterio, no sale de un bloque. Las casas no coinciden en el orden. Vanguard pone ex-EE.UU. arriba (6,3% contra 5,8%), J.P. Morgan queda prácticamente igual (7,5% contra ~7,5%) y BlackRock pone EE.UU. arriba (9,0% contra 7,4%). Por eso la diferencia que dejamos es chica: un cuarto de punto. Además, el IPS ya limita Europa a un rango de 10% a 20% porque el riesgo de estancamiento es real.
 
 **Prima por riesgo de acciones sobre el Tesoro: ~2,2 puntos.** Es angosta. Con el Tesoro pagando 5% y las acciones en valuaciones exigentes, la renta fija vuelve a pagar por sí sola, y eso sostiene un benchmark 50/50 para alguien que vive de la cartera.
 
@@ -534,7 +534,7 @@ Los 14 activos de abajo son los que pasaron a la optimización. Con las reglas d
 | LLY | Acciones EE.UU. | Salud | Líder en obesidad, ganancias que crecen 43% | Alcista |
 | NVS | Acciones Europa | Salud | Farma barata, de baja volatilidad y con 6% de retorno al accionista | Alcista |
 | ETN | Acciones EE.UU. | Industria | Electrificación de centros de datos y de la red | Alcista |
-| RELX | Acciones Europa | Industria | Información por suscripción; el mejor puntaje del screening | Alcista |
+| RELX | Acciones Europa | Industria | Información por suscripción; la mejor de su sector en el screening | Alcista |
 | PG | Acciones EE.UU. | Consumo básico | Cobertura deliberada contra el riesgo de IA | Neutral |
 
 Por sector: tecnología 2, financiero 2, salud 2, industria 2 y consumo básico 1. Quedan en cero los tres sectores sin tesis a favor (servicios públicos, consumo discrecional y comunicaciones).
@@ -682,7 +682,7 @@ La elegimos entre las farmacéuticas europeas:
 
 **Qué hace.** Vende información y análisis por suscripción: bases jurídicas, revistas científicas y análisis de riesgo para bancos y aseguradoras.
 
-**Por qué gana.** Sus ingresos son recurrentes y siguen a la inflación, y vende en todo el mundo con un dólar que se debilita. Tiene el mejor puntaje del screening de las 29 acciones elegibles (0,68).
+**Por qué gana.** Sus ingresos son recurrentes y siguen a la inflación, y vende en todo el mundo con un dólar que se debilita. Tiene el segundo puntaje del screening entre las 29 acciones elegibles (0,68, detrás de NVIDIA) y el mejor de su sector.
 
 **Números.** P/E forward 18,9, crecimiento 13%, margen 32%, deuda neta 2,6 veces el EBITDA, retorno al accionista 5,1%, ESG 58 y volatilidad 23%.
 

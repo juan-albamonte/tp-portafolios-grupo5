@@ -26,7 +26,7 @@ Los 14 activos de abajo son los que pasaron a la optimización. Con las reglas d
 | LLY | Acciones EE.UU. | Salud | Líder en obesidad, ganancias que crecen 43% | Alcista |
 | NVS | Acciones Europa | Salud | Farma barata, de baja volatilidad y con 6% de retorno al accionista | Alcista |
 | ETN | Acciones EE.UU. | Industria | Electrificación de centros de datos y de la red | Alcista |
-| RELX | Acciones Europa | Industria | Información por suscripción; el mejor puntaje del screening | Alcista |
+| RELX | Acciones Europa | Industria | Información por suscripción; la mejor de su sector en el screening | Alcista |
 | PG | Acciones EE.UU. | Consumo básico | Cobertura deliberada contra el riesgo de IA | Neutral |
 
 Por sector: tecnología 2, financiero 2, salud 2, industria 2 y consumo básico 1. Quedan en cero los tres sectores sin tesis a favor (servicios públicos, consumo discrecional y comunicaciones).
@@ -170,7 +170,7 @@ La elegimos entre las farmacéuticas europeas:
 
 **Qué hace.** Vende información y análisis por suscripción: bases jurídicas, revistas científicas y análisis de riesgo para bancos y aseguradoras.
 
-**Por qué gana.** Sus ingresos son recurrentes y siguen a la inflación, y vende en todo el mundo con un dólar que se debilita. Tiene el mejor puntaje del screening de las 29 acciones elegibles (0,68).
+**Por qué gana.** Sus ingresos son recurrentes y siguen a la inflación, y vende en todo el mundo con un dólar que se debilita. Tiene el segundo puntaje del screening entre las 29 acciones elegibles (0,68, detrás de NVIDIA) y el mejor de su sector.
 
 **Números.** P/E forward 18,9, crecimiento 13%, margen 32%, deuda neta 2,6 veces el EBITDA, retorno al accionista 5,1%, ESG 58 y volatilidad 23%.
 

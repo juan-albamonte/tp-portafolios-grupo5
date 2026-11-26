@@ -184,14 +184,23 @@ Recomendación vigente: escenario A (compra), nivel de vida "lujo".
 
 # 14. Clases de activos y rangos de ponderación
 
-| Clase | En qué consiste | Instrumento | Benchmark | Rango | Cartera | Qué aporta |
-|------------|------------------|----------|-------|---------|-------|------------------------------|
-| Liquidez | Letras del Tesoro de EE.UU. de 1 a 3 meses | BIL | 5% | 3% a 10% | 10,0% | Paga el retiro sin vender en las caídas. El mínimo cubre la reserva de dos años de gasto. |
-| Bonos del Tesoro | Bonos del gobierno de EE.UU. de 7 a 10 años | IEF | 20% | 10% a 30% | 21,5% | El mejor diversificador de las acciones: correlación diaria de −0,29 con el S&P 500. |
-| Bonos ajustados por inflación | Bonos del Tesoro cuyo capital sigue a la inflación (TIPS) | SCHP | 10% | 5% a 20% | 20,0% | Protege el poder de compra. En el escenario base, con inflación de 4%, le ganan al Tesoro nominal. |
-| Bonos corporativos | Bonos de empresas con grado de inversión y filtro de sustentabilidad | VCEB | 15% | 5% a 20% | 5,0% | Rinde algo más que el Tesoro, pero hoy el diferencial no paga el riesgo. |
-| Acciones de EE.UU. | Fondo amplio con filtro de sustentabilidad más acciones seleccionadas | ESGV, LLY, NVDA, V, ETN | 40% | 25% a 45% | 33,5% | Motor de crecimiento de largo plazo. |
-| Acciones de Europa | Acciones europeas seleccionadas, compradas como ADR en dólares | NVS, ASML, RELX | 10% | 10% a 20% | 10,0% | Diversificación geográfica, valuación más baja y mayor dividendo. |
+| Clase | En qué consiste | Activos | Benchmark | Rango | Cartera |
+|------------------|---------------------|--------------|-----------------|--------------|--------------|
+| Liquidez | Letras del Tesoro de EE.UU. de 1 a 3 meses | BIL | 5% | 3% a 10% | 10,0% |
+| Bonos del Tesoro | Bonos del gobierno de EE.UU. de 7 a 10 años | IEF | 20% | 10% a 30% | 21,5% |
+| Bonos ajustados por inflación | Bonos del Tesoro cuyo capital sigue a la inflación (TIPS) | SCHP | 10% | 5% a 20% | 20,0% |
+| Bonos corporativos | Bonos de empresas con grado de inversión y filtro de sustentabilidad | VCEB | 15% | 5% a 20% | 5,0% |
+| Acciones de EE.UU. | Fondo amplio con filtro de sustentabilidad más acciones seleccionadas | ESGV, LLY, NVDA, V, ETN | 40% | 25% a 45% | 33,5% |
+| Acciones de Europa | Acciones europeas seleccionadas, compradas como ADR en dólares | NVS, ASML, RELX | 10% | 10% a 20% | 10,0% |
+
+Qué aporta cada clase:
+
+- Liquidez: paga el retiro sin vender en las caídas. El rango alcanza para la reserva de dos años de gasto (2,6% a 6,0% de la cartera según el nivel).
+- Bonos del Tesoro: el mejor diversificador de las acciones (correlación diaria de −0,29 con el S&P 500).
+- Bonos ajustados por inflación: protegen el poder de compra. En el escenario base, con inflación de 4%, le ganan al Tesoro nominal.
+- Bonos corporativos: rinden algo más que el Tesoro, pero hoy el diferencial no paga el riesgo.
+- Acciones de EE.UU.: motor de crecimiento de largo plazo.
+- Acciones de Europa: diversificación geográfica, valuación más baja y mayor dividendo.
 
 Restricciones adicionales:
 
